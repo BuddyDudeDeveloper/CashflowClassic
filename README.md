@@ -1,26 +1,16 @@
 # Cashflow Classic
 
----
-
 <a  href="/Graphics/Images/cashflow-splash.png" target="_blank">![](/Graphics/Images/cashflow-splash.png)</a>
-
----
 
 # Note
 
 Due to the proprietary nature of this project, no code samples will be shown. I will go into detail about the aspects of the game I can describe but the scope will be limited.
 
----
-
 # Background
 
 As a junior developer at YETi CGI, I worked with a small team of developers to port Cashflow Classic, a Flash game for the web, to native web technologies. To accomplish this, we used CreateJS for the graphics and Firebase for the multiplayer functionality.
 
----
-
 # Process
-
----
 
 ## Handling Lobbies and Multiplayer
 
